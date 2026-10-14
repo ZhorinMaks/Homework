@@ -1,0 +1,24 @@
+html, body {
+     display: flex;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+body {
+     background-image: linear-gradient(45deg, grey 
+                                                10%, white 
+                                                      20%, grey 
+                                                           30%, white 
+                                                              40%,  grey 
+                                                                  50%, white 
+                                                                      60%, grey 
+                                                                          70%, white 
+                                                                              80%, grey 
+                                                                                    90%, white 100%);
+}
+  
+
+
